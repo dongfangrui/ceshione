@@ -15,9 +15,10 @@ int main() {
        }
    }*/：:
 
-  sort1()：;
+  sort1();
   sort2();
   i++;
   j++;
   printf("i=%d,\n", i);
+  printf("xxxxxxx\n");
 }
