@@ -22,4 +22,5 @@ int main() {
   printf("i=%d,\n", i);
   printf("xxxxxxx\n");
   printf("xxxxxxx\n");
+  printf("xxxxxxx\n");
 }
