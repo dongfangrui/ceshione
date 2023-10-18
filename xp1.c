@@ -1,5 +1,6 @@
 // 2023-05-05 五 08:38 下午
 #include "./hxp/kh.h"
+#include <cwchar>
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
@@ -20,4 +21,5 @@ int main() {
   i++;
   j++;
   printf("i=%d,\n", i);
+  scanf("%d", i);
 }
