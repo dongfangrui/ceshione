@@ -21,4 +21,5 @@ int main() {
   j++;
   printf("i=%d,\n", i);
   scanf("%d", i);
+  scanf("%d", i);
 }
